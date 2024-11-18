@@ -1,0 +1,25 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
